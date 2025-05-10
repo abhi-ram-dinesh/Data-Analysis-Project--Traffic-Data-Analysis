@@ -4,6 +4,7 @@ Click to see tableau public dashboard 👇🏻
 
 [![Explore Live Dashboard](https://img.shields.io/badge/Tableau_Dashboard-E97627?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/abhiram.dinesh/viz/Dashboard1Trafficaccidents/Dashboard1)  
 
+This repository contains a data analysis project focused on traffic data and accidents using Tableau.
 ---
 
 ## 📌 **Core Metrics**  
